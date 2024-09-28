@@ -9,7 +9,7 @@ A Flutter-based mobile application for converting temperatures between Fahrenhei
 - License
 
 ### Features
-**- Convert Between Fahrenheit and Celsius: **The app allows users to convert temperatures between Fahrenheit and Celsius, supporting both directions.
+**- Convert Between Fahrenheit and Celsius:** The app allows users to convert temperatures between Fahrenheit and Celsius, supporting both directions.
 **- Conversion History:** Each conversion is saved in a history list so users can see their previous calculations.
 **- Light and Dark Mode:** The app is visually appealing with both light and dark mode options, ensuring a great experience in various lighting conditions.
 **- Landscape and Portrait Orientation:** The app works smoothly in both portrait and landscape orientations.
